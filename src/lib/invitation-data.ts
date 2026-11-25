@@ -9,22 +9,22 @@ export const MEDIA = {
   seqVideo1: "/media/seq-video-1.mp4",
   seqVideo2: "/media/seq-video-2.mp4",
   seqImage3:
-    "https://imglinkv-3.vercel.app/api/images/cmws4ay1607450zwz/file",
+    "https://ik.imagekit.io/au8q7zdvt/JAVANESE%20TERRACE/SLIDE%202-3%20JAVANESE%20TERRACE.jpg?tr=f-auto,q-80",
 
   // Slide 3 — couple photo + prayer (video, freeze at last frame)
   blessingVideo: "/media/blessing.mp4",
 
   // Slide 4 — bride & groom
   brideGroomImage:
-    "https://imglinkv-3.vercel.app/api/images/cmws4bboqzxuj5r67/file",
+    "https://ik.imagekit.io/au8q7zdvt/JAVANESE%20TERRACE/SLIDE%204%20JAVANESE%20TERRACE.jpg?tr=f-auto,q-80",
 
   // Slide 5 — event details
   wallpaperRed:
     "https://inv.punakawandigital.id/wp-content/uploads/2026/06/SUJA-REDD-BACK-SCALED-PII.png",
   eventAkad:
-    "https://imglinkv-3.vercel.app/api/images/cmws4bf7dycsjgai1/file",
+    "https://ik.imagekit.io/au8q7zdvt/JAVANESE%20TERRACE/SLIDE%205-1%20JAVANESE%20TERRACE.png",
   eventResepsi:
-    "https://imglinkv-3.vercel.app/api/images/cmws4bj5vlar2gjzj/file",
+    "https://ik.imagekit.io/au8q7zdvt/JAVANESE%20TERRACE/SLIDE%205-2%20JAVANESE%20TERRACE.png",
 
   // Slide 6 — love story (video, freeze at last frame)
   loveStoryVideo: "/media/love-story.mp4",
